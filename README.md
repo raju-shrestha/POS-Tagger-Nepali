@@ -1,6 +1,3 @@
-
-                                 POS Tagger For Nepali Text Using Support Vector Machine 
-
 Parts of Speech Tagger for Nepali Text Using SVM is an application that assigns the appropriate parts of speech like noun, pronoun, verb, adverb, adjective etc. and other lexical tags to each words written in Nepali language based on its definition as well as context. The parts of speech tagger is build using the supervise machine leaning algorithm namely Support Vector Machine. The model uses 14 million Nepali words and corpus consists of written text from 15 different genre with 2000 words each published between 1990 and 1992 and the texts from a wide range of sources such as internet webs, newspapers or books. And, the model is trained with 80,000 lemmatized words collected from the Nepali National Monolingual Written Corpus. 
  
 The Parts of Speech tagger for Nepali text has wide range of scope in research and NLP applications such as machine translation, speech recognition, speech synthesis, grammar checker, information retrieval and extraction. 
@@ -8,6 +5,7 @@ The Parts of Speech tagger for Nepali text has wide range of scope in research a
 Nepali is morphologically rich language and one has to consider many features to build the language model. The SVM based POS tagger construct the feature vectors for each word in input and classify the word into one of the two classes (One Vs Rest). 
  
 The performance analysis includes different components such as known words, unknown words and size of the training data. The average accuracy obtained for lemmatized text and unprocessed raw text is 88% and 72% respectively. 
+  
   
 Steps to run:
 1. Place the nnc_updated_ah folder at correct location
