@@ -2,7 +2,7 @@ Parts of Speech Tagger for Nepali Text Using SVM is an application that assigns 
  
 The Parts of Speech tagger for Nepali text has a wide range of scope in research and NLP applications such as machine translation, speech recognition, speech synthesis, grammar checker, information retrieval, and extraction. 
  
-Nepali isa  morphologically rich language and one has to consider many features to build the language model. The SVM based POS tagger construct the feature vectors for each word in input and classify the word into one of the two classes (One Vs Rest). 
+Nepali is a  morphologically rich language and one has to consider many features to build the language model. The SVM based POS tagger construct the feature vectors for each word in input and classify the word into one of the two classes (One Vs Rest). 
  
 The performance analysis includes different components such as known words, unknown words, and the size of the training data. The average accuracy obtained for lemmatized text and unprocessed raw text is 88% and 72% respectively. 
   
